@@ -60,7 +60,7 @@ global.gp1 = 'https://chat.whatsapp.com/Ecz881bBgqPIWjDOaKkp7E'
 global.comunidad1 = 'https://chat.whatsapp.com/CFKiJECJYHsBaSyCoT7NIk'
 global.channel = 'https://whatsapp.com/channel/0029VbADBSTEawdmbuNz9p1d'
 global.channel2 = 'https://whatsapp.com/channel/0029VbADBSTEawdmbuNz9p1d'
-global.md = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot'
+global.md = 'https://github.com/jerem146/AURA--SHAR/blob/main/settings.js'
 global.correo = 'darekbajop@gmail.com'
 global.cn ='https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T';
 
