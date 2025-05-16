@@ -62,7 +62,7 @@ global.channel = 'https://whatsapp.com/channel/0029VbADBSTEawdmbuNz9p1d'
 global.channel2 = 'https://whatsapp.com/channel/0029VbADBSTEawdmbuNz9p1d'
 global.md = 'https://github.com/jerem146/AURA--SHAR/blob/main/settings.js'
 global.correo = 'darekbajop@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T';
+global.cn ='https://whatsapp.com/channel/0029VbADBSTEawdmbuNz9p1d';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
