@@ -40,11 +40,11 @@ global.yukiJadibts = true
 
 global.packname = '⪛✰ AURA FISHER ✰⪜'
 global.botname = 'AURA SHAR'
-global.wm = 'ৎ୭࠭͢𝐘𝐮𝐤𝐢_𝐒𝐮𝐨𝐮- Aura𓆪͟͞ '
-global.author = 'Made By ⁱᵃᵐ DARK𒆜'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐJEREM𒆜'
+global.wm = 'AURA FISHER'
+global.author = 'Made By ⁱᵃᵐ DARK¶'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐJEREM¶'
 global.textbot = 'AURA SHAR • Powered By ⁱᵃᵐ DARK𒆜'
-global.etiqueta = 'ⁱᵃᵐJEREM𒆜'
+global.etiqueta = 'ⁱᵃᵐJEREM¶'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
