@@ -44,7 +44,7 @@ global.wm = 'ৎ୭࠭͢𝐘𝐮𝐤𝐢_𝐒𝐮𝐨𝐮- Aura𓆪͟͞ '
 global.author = 'Made By ⁱᵃᵐ DARK𒆜'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐJEREM𒆜'
 global.textbot = 'AURA SHAR • Powered By ⁱᵃᵐ DARK𒆜'
-global.etiqueta = 'ⁱᵃᵐ|JEREM𒆜'
+global.etiqueta = 'ⁱᵃᵐJEREM𒆜'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
